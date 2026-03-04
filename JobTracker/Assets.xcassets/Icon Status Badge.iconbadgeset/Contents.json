@@ -1,0 +1,68 @@
+{
+  "images" : [
+    {
+      "filename" : "JobTrackerIcon_7x7.png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "7x7"
+    },
+    {
+      "filename" : "JobTrackerIcon_14x14.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "7x7"
+    },
+    {
+      "filename" : "JobTrackerIcon_11x11 1.png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "11x11"
+    },
+    {
+      "filename" : "JobTrackerIcon_22x22.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "11x11"
+    },
+    {
+      "filename" : "JobTrackerIcon_24x24.png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "24x24"
+    },
+    {
+      "filename" : "JobTrackerIcon_48x48.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "24x24"
+    },
+    {
+      "filename" : "JobTrackerIcon_50x50.png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "50x50"
+    },
+    {
+      "filename" : "JobTrackerIcon_100x100.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "50x50"
+    },
+    {
+      "filename" : "JobTrackerIcon_100x100 1.png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "100x100"
+    },
+    {
+      "filename" : "JobTrackerIcon_200x200.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "100x100"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
